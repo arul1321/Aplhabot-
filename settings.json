@@ -1,18 +1,18 @@
 {
-    "self_mode": false,
-	"autobio": false,
+    "self_mode": true,
+	"autobio": true,
 	"antihidetag": true,
 	"user_register": false,
 	"anti_delete" : false,
 	"anticall": true,
 	"prefix": ".",
 	"language":"ind",
-	"ownerNumber": "62887435047326",
-	"ownerNumberr": "62887435047326",
-	"cr": "@ZeeoneOfc",
-	"ownername": "ZeeoneOfc",
-	"botname":"Ａʟᴘʜᴀʙᴏᴛ",
+	"ownerNumber": "6281229859085",
+	"ownerNumberr": "6281229859085",
+	"cr": "@ArulGanz",
+	"ownername": "ArulGanz",
+	"botname":"ArulBotz",
 	"thumb":"thumbnail_1.jpg",
 	"fakethumb":"thumbnail_1.jpg", 
-	"fake": " 「  Ａʟᴘʜᴀʙᴏᴛ  」\nCreated By @ZeeoneOfc"
+	"fake": " 「  ArulBotz  」\nCreated By @ArulGanz"
 }

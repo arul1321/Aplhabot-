@@ -3451,8 +3451,8 @@ case 'setexif':
 		            break
 		    case 'public':
 		              if (!mek.key.fromMe && !isOwner && !isCreator) return reply(lang.onlyOwner())
-		          	if (banChats === false) return
-		          	banChats = false
+		          	if (banChats === true) return
+		          	banChats = true
 		          	//fakeitem(`「 *PUBLIC-MODE* 」`)
 						sendButMessage(from, `「 *PUBLIC-MODE* 」`, `Click self to return to self mode`, [
             {
